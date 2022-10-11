@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Muskan Verma](https://github.com/MuskanVerma11)
+- Place: Chhattisgarh, India
+- Bio: Btech IT student
+- Github: [Muskan Verma](https://github.com/MuskanVerma11)
